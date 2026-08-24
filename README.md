@@ -39,7 +39,7 @@ A reusable C++ Utility Library that provides a collection of helper functions fo
     main.cpp # Sample code to demonstrate usage
     README.md # Project documentation
 
-## 🙏 Acknowledgments
+## 🫡 Acknowledgments
 
 This project is part of the Programming Advices Training Track led by:
 
