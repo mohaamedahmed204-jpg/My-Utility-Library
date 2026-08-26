@@ -1,6 +1,6 @@
-# 📌 My-Utility-Library (OOP)
+# 📄 My-Utility-Library (OOP)
 
-## 🔹 Overview
+## 📌 Overview
 
 This project was implemented as part of Course 11 – OOP As it Should Be (Application) in the Programming Advices Track [www.programmingadvices.com] by Dr. Mohamed Abouhadhood.
 
