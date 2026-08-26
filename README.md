@@ -12,12 +12,12 @@ A reusable C++ Utility Library that provides a collection of helper functions fo
 
 ## ✨ Features
 
-✅ Random Utilities: Generate random numbers, characters, words, and formatted keys.
-✅ Array Helpers: Fill arrays with random numbers, words, or keys, and shuffle arrays.
-✅ Swap Functions: Overloaded Swap methods for int, double, bool, char, string, and even clsDate.
-✅ Text Encryption/Decryption: Simple Caesar‑style cipher using a numeric key.
-✅ Formatting Helper: Generate tab spacing easily.
-✅ Encapsulation: All logic wrapped in one class with static members, easy to reuse anywhere.
+    ✅ Random Utilities: Generate random numbers, characters, words, and formatted keys.
+    ✅ Array Helpers: Fill arrays with random numbers, words, or keys, and shuffle arrays.
+    ✅ Swap Functions: Overloaded Swap methods for int, double, bool, char, string, and even clsDate.
+    ✅ Text Encryption/Decryption: Simple Caesar‑style cipher using a numeric key.
+    ✅ Formatting Helper: Generate tab spacing easily.
+    ✅ Encapsulation: All logic wrapped in one class with static members, easy to reuse anywhere.
 
 
 ## 🧠 Key Concepts Practiced
