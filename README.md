@@ -43,5 +43,5 @@ A reusable C++ Utility Library that provides a collection of helper functions fo
 
 This project is part of the Programming Advices Training Track led by:
 
-    👨‍🏫 Dr. Mohamed Abouhadhood
-    📚 Platform: Programming Advice
+* 👨‍🏫 Dr. Mohamed Abouhadhood
+* 📚 Platform: Programming Advice
