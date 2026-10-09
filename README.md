@@ -34,10 +34,10 @@ A reusable C++ Utility Library that provides a collection of helper functions fo
 
 📁 Project-11-Utility-Library-OOP
 
-    clsUtil.h # Header file containing the clsUtil class and all static methods
-    clsDate.h # Date helper class (used in Swap method)
-    main.cpp # Sample code to demonstrate usage
-    README.md # Project documentation
+* clsUtil.h # Header file containing the clsUtil class and all static methods
+* clsDate.h # Date helper class (used in Swap method)
+* main.cpp # Sample code to demonstrate usage
+* README.md # Project documentation
 
 ## 🫡 Acknowledgments
 
